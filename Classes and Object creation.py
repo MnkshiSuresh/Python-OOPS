@@ -1,4 +1,4 @@
- class Dog:
+class Dog:
     attr1="mammal"
     def __init__(self,name):
         self.name=name
